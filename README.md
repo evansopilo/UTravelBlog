@@ -10,17 +10,12 @@ Note that Static website hosting essentially requires a public bucket, whereas t
 ### Cloud Services
 1. Amazon Web Services S3 - Resource hosting and deployments
 2. AWS CloudFront - CDN for SPA
-3. AWS EKS - Backend API
-4. AWS DynamoDB - Persistent Datastore
-5. AWS Cognito - User Authentication
 
 ## Performance Tracking and DevOps Tools:
 1. AWS CloudWatch - Performance and Health checks
-2. Sentry - Bug Reporting
-3. Google Analytics - Usage Reporting
+2. Google Analytics - Usage Reporting
 
 ## Frameworks:
-1. Ionic (Javascript) (Frontend)
-2. Node.js (Javascript) (Backend)
-
-
+1. bootstrap (css) 
+2. jquery (Javascript) 
+3. Fontawesome (Icons)
